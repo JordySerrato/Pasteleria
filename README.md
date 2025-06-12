@@ -1,6 +1,6 @@
 # seccion1_flutter
 
-## Damos inicio al proyecto grupal
+## Damos inicio al proyecto grupal Textual
 
 A new Flutter project.
 
