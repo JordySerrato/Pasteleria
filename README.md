@@ -1,5 +1,10 @@
 # seccion1_flutter
 
+<<<<<<< HEAD
+=======
+## Damos inicio al proyecto grupal Textual
+
+>>>>>>> a28b1d094403ed60365fd800d40968d0b20d61fd
 A new Flutter project.
 
 ## Getting Started
